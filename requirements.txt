@@ -5,3 +5,4 @@ pywidevine
 tqdm
 python-telegram-bot
 bs4
+python-dotenv
