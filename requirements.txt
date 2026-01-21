@@ -1,0 +1,7 @@
+requests
+mutagen
+yt-dlp
+pywidevine
+tqdm
+python-telegram-bot
+bs4

@@ -1,0 +1,10 @@
+# Carpetas
+handpicked/
+venv/
+
+# Archivos
+cookies.txt
+device.wvd
+logs.txt
+.env
+.env.*
